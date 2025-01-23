@@ -1,4 +1,6 @@
-## Hi there 👋
+![Image](https://github.com/user-attachments/assets/1e7dc4f4-993e-483d-b5e9-591a772fdb75)
+
+## Train hard
 
 <!--
 **prnsslcn/prnsslcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
