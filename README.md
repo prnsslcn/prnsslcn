@@ -30,6 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnsslcn&layout=compact)
 
+<h3 align="center">📫 Contact 📫</h3>
 <a href="mailto:prnsslcn@gmail.com">
     <img
       src="https://img.shields.io/badge/prnsslcn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
