@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?prnsslcn=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnsslcn&layout=compact)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
