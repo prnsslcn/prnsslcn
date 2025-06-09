@@ -18,6 +18,7 @@
 # Tool
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=VSCode&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
