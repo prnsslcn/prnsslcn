@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=VSCode&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnsslcn&layout=compact)
