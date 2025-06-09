@@ -4,7 +4,7 @@
 시각적으로 사람들의 관심을 끌고, 더 나은 사용자 경험을 만드는 데 큰 보람을 느낍니다.<br />
 창의적인 아이디어를 코드로 구현해 감각적인 결과물로 즐거움을 주는 개발자가 되고자 합니다.
 
-# Tech Stack
+# 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Tool
+# 🔧 Tool
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=VSCode&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
