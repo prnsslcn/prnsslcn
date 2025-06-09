@@ -1,5 +1,6 @@
 # 안녕하십니까
 
+# Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -15,11 +16,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Tool
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=VSCode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=VSCode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnsslcn&layout=compact)
