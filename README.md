@@ -2,7 +2,7 @@
 
 <p align="center">맡은 일에 끝까지 책임을 다하는 끈기를 가진 프론트엔드 개발자 준비생 이준구입니다.</p><br /><br />
 <p align="center">시각적으로 사람들의 관심을 끌고, 더 나은 사용자 경험을 만드는 데 큰 보람을 느낍니다.</p>
-<p align="center">창의적인 아이디어를 코드로 구현해 감각적인 결과물로 즐거움을 주는 개발자가 되고자 합니다.</p>
+<p align="center">창의적인 아이디어를 코드로 구현해 감각적인 결과물로 즐거움을 주는 개발자가 되고자 합니다.</p><br />
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
