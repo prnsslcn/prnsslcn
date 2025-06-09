@@ -4,7 +4,8 @@
 <p align="center">시각적으로 사람들의 관심을 끌고, 더 나은 사용자 경험을 만드는 데 큰 보람을 느낍니다.</p>
 <p align="center">창의적인 아이디어를 코드로 구현해 감각적인 결과물로 즐거움을 주는 개발자가 되고자 합니다.</p><br />
 
-# 💻 Tech Stack
+<h1>💻 Tech Stack</h1>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,7 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prnsslcn&layout=compact)
 
-<h3 align="center">📫 Contact 📫</h3>
+<h1>📫 Contact</h1>
 <a href="mailto:prnsslcn@gmail.com">
     <img
       src="https://img.shields.io/badge/prnsslcn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
