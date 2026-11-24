@@ -1,6 +1,6 @@
 <h3 align="center">Legacy</h3><br /><br />
 
-<h1>💻 Tech Stack</h1>
+<h1>Tech Stack</h1>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-<h1>🔧 Tool</h1>
+<h1>Tool</h1>
 
 ![Webstorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=Webstorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=for-the-badge&logo=VSCode&logoColor=white)
@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 
-<h1>📫 Contact</h1>
+<h1>Contact</h1>
 <a href="mailto:prnsslcn@gmail.com">
     <img
       src="https://img.shields.io/badge/prnsslcn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
